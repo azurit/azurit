@@ -1,3 +1,3 @@
 <p align="center">
-   <img src="https://azurit.elbiahosting.sk/azurit.gif"/>
+   <img src="https://azurit.elbiahosting.sk/azurit.gif"/> Follow the blue rabbit...
 </p>
